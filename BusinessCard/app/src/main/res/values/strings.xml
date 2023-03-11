@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_given_name">Phillip W. Reynolds</string>
+    <string name="card_primary_title">Software Engineer</string>
+    <string name="card_secondary_title">Mobile Developer</string>
+    <string name="card_phone_number">+1 (281) 974-6244</string>
+    <string name="card_social_media">\@P_Reynolds03</string>
+    <string name="card_email">preynolds1406@gmail.com</string>
+</resources>
